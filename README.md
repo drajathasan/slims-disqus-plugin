@@ -1,3 +1,6 @@
+# Apresiasi
+Terimakasih [buitenzorg812](https://github.com/buitenzorg812) untuk ide inti dari plugin ini.
+
 # Cara/How to install
 
 Masuk ke laman https://disqus.com/, klik yang saya lingkari
@@ -5,6 +8,7 @@ Masuk ke laman https://disqus.com/, klik yang saya lingkari
 
 ## Langkah-langkah pemasangan
 1. Akun Disqus
+
 1.1. Login jika anda sudah memiliki akun
 1.2. Login menggunakan akun medsos anda
 1.3. Mendaftar akun baru
