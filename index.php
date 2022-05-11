@@ -67,7 +67,7 @@ $form->table_content_attr = 'class="alterCell2"';
 $form->submit_button_attr = 'name="saveData" value="'.__('Save Settings').'" class="btn btn-default"';
 
 $html = '<input type="form-control" name="disqusurl" style="width: 60%;" class="form-control" value="' . ($data[0]??'') . '"/>';
-$html .= '<small>Cara mendapatkan/How to get Disqus URL : <a href="#">You Tube</a></small>';
+$html .= '<small>Cara mendapatkan/How to get Disqus URL : <a href="https://github.com/drajathasan/slims-disqus-plugin/blob/main/README.md">Dokumentasi plugin</a></small>';
 $form->addAnything(__('Disqus URL'),  $html);
 
 // print out the object
